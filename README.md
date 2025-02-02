@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Follow these steps:
 
 ```sh
@@ -37,3 +38,6 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
+=======
+# The-Alter-Office
+>>>>>>> 6daa2feb598cc788acbd0b77868ae54dedfb5f3b
